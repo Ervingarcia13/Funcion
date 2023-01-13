@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec6a508a-8e7c-4345-bd8c-db27ceefeedc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/FuncionSuma/FuncionSuma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/FuncionSuma/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ec6a508a-8e7c-4345-bd8c-db27ceefeedc" name="Changes" comment="Ejercicio  de  funcion suma" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +46,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673602521118</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio  de  funcion suma">
+      <created>1673604898865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673604898865</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +66,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicio  de  funcion suma" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio  de  funcion suma" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
